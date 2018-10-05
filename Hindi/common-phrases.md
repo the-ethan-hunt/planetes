@@ -12,7 +12,6 @@
 | Can you help me? | क्या आप मेरी मदद कर सकते हैं    |Kya aap meri madad kar saktey hain? |
 | How much is this?|  यह कैसे दिया |Yeh kaisey diyaa?|
 |What's your name?| आपका नाम क्या है |Aapka naam kyaa hai? |
-
 |Do you speak (English/ Hindi)? 	|Kyaa aap (angrézee/hindi) mein baat kar saktey hain?
 |क्या आप (अंग्रेजी-हिंदी) में बात कर सकते हैं|
 |Just a little. 	|Bus thodaasaa.   |बस थोडासा|
