@@ -12,7 +12,7 @@
 ## When you need help
 
 
-| English        | French           | Transliteration  |
+| English        | Portuguese           | Transliteration  |
 | ------------- |:-------------:| -----:|
 |Leave me alone. | Me deixe em paz! | Me dexa em paz |
 |Buzz off. | Saia! | SAIA! | 
