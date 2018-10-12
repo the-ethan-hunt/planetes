@@ -1,6 +1,10 @@
 # planetes
 A repository for programmers who love to travel!
 
+[![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
+
+[![GitHub Issues](https://img.shields.io/github/issues/the-ethan-hunt/planetes.svg?style=flat-square)](https://github.com/the-ethan-hunt/planetes/issues) [![Forks](https://img.shields.io/github/forks/the-ethan-hunt/planetes.svg)](https://github.com/the-ethan-hunt/planetes/network) [![Stargazers](https://img.shields.io/github/stars/the-ethan-hunt/planetes.svg)](https://github.com/the-ethan-hunt/planetes/stargazers)
+
 ### Contents
 
 - [What](#what)
@@ -8,7 +12,7 @@ A repository for programmers who love to travel!
 - [Contribute](#contribute)
 - [License](#license)
 
-### What
+### What?
 
 There are 10 types of programmers:  those who love to travel and those who do not!
 But travelling to a new country is intimidating sometimes; the culture and the language is a behemoth task. Planetes comes to your help!
