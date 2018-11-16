@@ -3,7 +3,7 @@ A repository for programmers who love to travel!
 
 [![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
 
-[![GitHub Issues](https://img.shields.io/github/issues/the-ethan-hunt/planetes.svg?style=flat-square)](https://github.com/the-ethan-hunt/planetes/issues) [![Forks](https://img.shields.io/github/forks/the-ethan-hunt/planetes.svg)](https://github.com/the-ethan-hunt/planetes/network) [![Stargazers](https://img.shields.io/github/stars/the-ethan-hunt/planetes.svg)](https://github.com/the-ethan-hunt/planetes/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/the-ethan-hunt/planetes.svg?style=flat-square)](https://github.com/the-ethan-hunt/planetes/issues) [![Forks](https://img.shields.io/github/forks/the-ethan-hunt/planetes.svg)](https://github.com/the-ethan-hunt/planetes/network) [![Stargazers](https://img.shields.io/github/stars/the-ethan-hunt/planetes.svg)](https://github.com/the-ethan-hunt/planetes/stargazers) [![Join the chat at https://gitter.im/Planetes-main/Lobby](https://badges.gitter.im/Planetes-main/Lobby.svg)](https://gitter.im/Planetes-main/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Contents
 
